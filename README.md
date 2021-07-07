@@ -1,5 +1,5 @@
-<h1 align="center">😉 Hey! Nice to see you.</h1>
-<h3 align="center">I'm Aditya Lodhi</h3>
+<h1 align="center">😉 Hey there!</h1>
+<h3 align="center">This Is Sachin Tiwari</h3>
 
 [<img align="left" alt="LinkedIn" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/sachin-tiwari-1b586a193/)
 [<img alt="Gmail" src="https://www.flaticon.com/svg/static/icons/svg/888/888853.svg" width="25px">](mailto:sachin.tiwari.civ19@itbhu.ac.in)
