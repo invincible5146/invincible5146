@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=invincible5146&label=Profile%20views&color=0e75b6&style=plastic" alt="invincible5146" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=invincible5146 &theme=algolia" alt="invincible5146"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=invincible5146&theme=algolia" alt="invincible5146"  /></p>
 
 
 ## 🛠️ My Skills
