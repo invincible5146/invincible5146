@@ -6,7 +6,7 @@
 <hr/>
 <h4 align="center">I am final year undergraduate at IIT BHU(Varanasi).I was born and brought up in Delhi and I did my schooling from there itself. I am passionate about technology and always keen to learn new tech and stacks.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=invincible5146&label=Profile%20views&color=0e75b6&style=plastic" alt="invincible5146" /> </p>
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=invincible5146 &theme=algolia" alt="invincible5146"  /></p>
