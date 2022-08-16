@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Sachin Tiwari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Senior Undergraduate at IIT BHU;Full+Stack+Web+Developer;DS%20|%20Algorithms%20|%20Web Development%20Enthusiast;;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Senior Undergraduate+at+IIT +BHU;Full+Stack+Web+Developer;DS%20|%20Algorithms%20|%20Web Development%20Enthusiast;;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I am final year undergraduate at IIT BHU(Varanasi).I was born and brought up in Delhi and I did my schooling from there itself. I am passionate about technology and always keen to learn new tech and stacks.</h4>
